@@ -1,0 +1,11 @@
+galaxy_info:
+  author: ywatase
+  description: install remi-release
+  license: BSD
+  min_ansible_version: 1.2
+  platforms:
+  - name: EL
+    versions:
+    - all
+  galaxy_tags: []
+dependencies: []
